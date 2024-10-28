@@ -1,6 +1,8 @@
 # Policy Aggregation 
 
-Code for the experiments.
+Parand A. Alamdari, Soroush Ebadian, Ariel D. Procaccia 
+
+
 
 ### To install the dependencies run 
 ```

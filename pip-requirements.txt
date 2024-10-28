@@ -1,0 +1,9 @@
+numpy
+gurobipy
+tqdm
+scipy
+sparseqr
+Cython
+cobra
+kaleido
+seaborn
